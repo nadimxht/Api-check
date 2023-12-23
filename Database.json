@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "0",
+      "username": "user 1",
+      "bio": "this is a bio"
+    },
+    {
+      "id": "qEjy6Vs",
+      "username": "nadim",
+      "email": "nadim.chihaoui@etudiant-isi.utm.tn",
+      "password": "123"
+    },
+    {
+      "id": "XqFRJ3j",
+      "username": "user3",
+      "email": "user3",
+      "password": "123"
+    }
+  ],
+  "posts": [
+    {
+      "id": "0",
+      "userId": "0",
+      "conent": "First post"
+    }
+  ]
+}
